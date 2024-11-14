@@ -1,0 +1,3 @@
+/Users/bsibb22/Documents/CLion Projects/gleep/gleepyglorpy/GleepyGlorpyTrail/cmake-build-debug/CMakeFiles/GleepyGlorpyTrail.dir
+/Users/bsibb22/Documents/CLion Projects/gleep/gleepyglorpy/GleepyGlorpyTrail/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bsibb22/Documents/CLion Projects/gleep/gleepyglorpy/GleepyGlorpyTrail/cmake-build-debug/CMakeFiles/rebuild_cache.dir

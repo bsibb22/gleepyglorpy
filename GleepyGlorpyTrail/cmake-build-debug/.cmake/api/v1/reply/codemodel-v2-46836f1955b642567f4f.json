@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GleepyGlorpyTrail",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GleepyGlorpyTrail::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GleepyGlorpyTrail-Debug-de461223c0c17deb9458.json",
+					"name" : "GleepyGlorpyTrail",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bsibb22/Documents/CLion Projects/gleep/gleepyglorpy/GleepyGlorpyTrail/cmake-build-debug",
+		"source" : "/Users/bsibb22/Documents/CLion Projects/gleep/gleepyglorpy/GleepyGlorpyTrail"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
